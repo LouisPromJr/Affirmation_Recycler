@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmations1">I believe in myself</string>
+    <string name="affirmations2">I am strong</string>
+    <string name="affirmations3">I can do better</string>
+    <string name="affirmations4">I will reach my ideal life style</string>
+    <string name="affirmations5">I will win all of my 50/50s</string>
+    <string name="affirmations6">I have great luck</string>
+    <string name="affirmations7">I am fortunate to have my family and friends</string>
+    <string name="affirmations8">I will graduate this semester</string>
+    <string name="affirmations9">Each day is a new opportunity to grow and be a better version of myself</string>
+    <string name="affirmations10">When bad things happen, good things will follow</string>
+</resources>
